@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : list.h
- Author      : Davide Cosentino
+ Author      : @devitcode
  Version     : 1.0
  Description : Dynamic list implementation for C
  ============================================================================
